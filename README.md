@@ -2,7 +2,7 @@
 
 <img width="150" height="150" alt="icon" src="https://github.com/user-attachments/assets/c0325272-e37d-4d43-b7ba-d92d9f71f46f" />
 
-A small interface made with python to resize pictoes for jd modding and more.
+A small interface made with python to resize pictos for jd modding and more.
 
 Requirements:
 - Python 3 installed on your system.
