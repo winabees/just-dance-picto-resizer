@@ -1,4 +1,6 @@
-# just-dance-picto-resizer
+# JUST DANCE PICTO RESIZER
+
+<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/c0325272-e37d-4d43-b7ba-d92d9f71f46f" />
 A small interface made with python to resize pictoes for jd modding and more.
 
 Requirements:
@@ -12,5 +14,3 @@ How to Use:
 4. Click the "Export" button.
 
 Your newly resized pictograms will appear inside the "output" folder. Enjoy!
-
-<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/c0325272-e37d-4d43-b7ba-d92d9f71f46f" />
